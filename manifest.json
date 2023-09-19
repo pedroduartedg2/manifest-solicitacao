@@ -3,7 +3,7 @@
   "background_color": "#0DA6A6",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/lib/solicitacoes/detalhes",
+  "start_url": "https://rbservices.apprbs.com.br/lib/solicitacoes/detalhes",
   "name": "Rubeus Solicitacoes",
   "short_name": "Solicitacoes",
   "icons": [
