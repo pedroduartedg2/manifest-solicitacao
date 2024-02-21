@@ -1,11 +1,11 @@
 {
-  "theme_color": "#0DA6A6",
-  "background_color": "#0DA6A6",
+  "theme_color": "#fff",
+  "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://rbservices.apprbs.com.br/lib/solicitacoes/detalhes",
-  "name": "Rubeus Solicitacoes",
-  "short_name": "Solicitacoes",
+  "start_url": "/atendimentos/detalhes",
+  "name": "Atendimentos",
+  "short_name": "Atendimentos",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/pedroduartedg2/manifest-solicitacao/main/icon-192x192.png",
